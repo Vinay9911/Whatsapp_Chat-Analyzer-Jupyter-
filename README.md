@@ -4,4 +4,4 @@ I deployed a robust Streamlit application designed to allow users to upload What
 
 # Deployed Streamlit link to do analysis on your chats
 
-https://chat-forensic.streamlit.app/
+[https://chat-forensic.streamlit.app/](https://whatsapp-chat-insight.streamlit.app/)
